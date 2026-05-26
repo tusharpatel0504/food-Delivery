@@ -1,3 +1,15 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+.vscode/
+.idea/
+coverage/
 # Logs
 logs
 *.log
